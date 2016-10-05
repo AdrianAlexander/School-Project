@@ -10,7 +10,7 @@ int main()
 	{
 		current = Ocean_level*year;
 		cout<<"result"<<current<<endl;
-		year++;
+		year++; //DOTA DOTA DOTA
 			
 	}
 	
